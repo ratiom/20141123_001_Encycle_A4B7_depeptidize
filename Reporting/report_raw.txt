@@ -1,0 +1,22 @@
+Maestro Version 9.9.013, MMshare Version 2.7.013, Release 2014-3, Platform Windows-x64
+Glide XXX
+RStudio Version 0.98.507
+R x64 3.1.0
+Knime 2.9.4
+
+Date
+Job: Design depeptidized analogues of PWLDT for A4B7 inhibition, by substituting heterocycles for the Trp2 position
+
+Download Zinc molecule sets
+
+
+Clean Fragments (from http://zinc.docking.org/subsets/clean-fragments)
+12_p0.smi.gz (11.1 MB)
+
+Clean Shards (http://zinc.docking.org/subsets/clean-shards)
+17_p0.smi.gz
+
+SMILES for scaffold ([P-gap-LDT])
+CC(C)C[C@H](NI)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](C)[C@@H](C(=O)NC(C)(C)C)N1CCC[C@H]1C(=O)C
+Scaffold saved as P-gap-LDT
+
